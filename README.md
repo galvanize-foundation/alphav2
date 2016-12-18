@@ -1,7 +1,7 @@
 # alpha
 
-Your Terminal: 
-```git clone https://github.com/galvanize-foundation/alpha.git```
+Your Terminal:
+```git clone https://github.com/galvanize-foundation/galvanize-foundation.git```
 
 ```npm install && bower install```
 
